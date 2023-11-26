@@ -2,6 +2,7 @@
 This repository contains the R, Python code to curate, ensure quality control, normalize, and generate final model results from the raw data collected
 PubMed and other resuorces in the context of a research study.  **Convergence in Affective and Cognitive Sciences**, published in 2023.
 
+Data is located at the OSF [link](https://osf.io/v8qxs/).
 
 ## Getting Started
 
