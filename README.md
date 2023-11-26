@@ -20,8 +20,7 @@ Packages are available on CRAN and can be installed using a simple call to `inst
 ##### Please run the following scripts sequentially
 
 -./main/*
-	    - Main set of files used for raw data filtering, grouping, labeling.  
-     		N_F* files used to generate visualizations,  N_model* files for model construction.  
+	    - Main set of files used for raw data filtering, grouping, labeling. N_F* files used to generate visualizations,  N_model* files for model construction.
 
 - ./Descriptive/*
 	    - Files used for data collection and initial analyzis.
