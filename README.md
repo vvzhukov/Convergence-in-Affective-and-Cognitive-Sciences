@@ -7,7 +7,7 @@ Data is located at the OSF [link](https://osf.io/v8qxs/).
 ## Getting Started
 
 #### Prerequisites
-- R and RStudio
+- R v. 4.2.2 and RStudio
 - Required packages
 
 #### Installing R Packages
